@@ -1,4 +1,8 @@
-## Hi there 👋
+## About
+
+I am a Computer Systems Engineer at Lawrence Berkeley National Laboratory.
+My background is in Topological Data Analysis.
+
 
 <!--
 **anigmetov/anigmetov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
